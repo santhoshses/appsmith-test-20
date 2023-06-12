@@ -1,0 +1,1 @@
+SELECT TOP 10 * FROM users where role = {{ roleDropdown.selectedOptionValue }} ORDER BY id;

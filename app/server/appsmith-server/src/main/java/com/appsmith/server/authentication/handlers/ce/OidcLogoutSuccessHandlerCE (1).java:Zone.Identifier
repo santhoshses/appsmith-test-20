@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://dev.azure.com/ABB-BCI-PCP/IOM/_git/IOM.Core.Services.FormBuilder?version=GC60d540ff3970a22899d361bd29a477dd5f27c183&path=/src/appsmithcode/app/server/appsmith-server/src/main/java/com/appsmith/server/authentication/handlers/ce/OidcLogoutSuccessHandlerCE.java
+HostUrl=https://dev.azure.com/ABB-BCI-PCP/b0f2de64-de0a-4e1e-bcc8-375d9c2d5da3/_apis/git/repositories/c4ddbd25-89f4-460d-b6de-0e95d2c5ff9d/items?path=/src/appsmithcode/app/server/appsmith-server/src/main/java/com/appsmith/server/authentication/handlers/ce/OidcLogoutSuccessHandlerCE.java&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=2&versionDescriptor%5Bversion%5D=60d540ff3970a22899d361bd29a477dd5f27c183&resolveLfs=true&%24format=octetStream&api-version=5.0&download=true

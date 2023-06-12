@@ -1,0 +1,61 @@
+
+.tabulator-row .tabulator-cell.tabulator-editing {
+    border: 1px solid #3366ff;
+    outline: none;
+    padding: 0;
+}
+
+.tabulator-cell.cell-selected {
+    border-bottom: 2px solid #3366ff;
+}
+.tabulator-cell.cell-confirmed {
+    border-bottom: 2px solid #329a5d;
+}
+
+.tabulator-row .tabulator-cell.tabulator-validation-fail {
+    border-bottom: 2px solid #f03040;
+}
+
+.tabulator-cell.disabled-cell {
+    background-color: gray;
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+.tabulator-row .tabulator-cell.tabulator-row-selection {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 16px;
+}
+
+.tabulator-row .tabulator-cell.tabulator-row-selection-checked {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 24px;
+}
+
+.Toastify__toast--info {
+  border: 1px solid #E78326  !important;
+  border-radius: 50px !important;
+  background: #FADFC5 !important;
+  color: #e34f05 !important;
+}
+
+
+.Toastify__toast-body {
+  font-size: 16px;
+  padding: 4px 16px;
+  line-height: 20px;
+  width: 100%;
+  font-weight: 400;
+  margin-left: 25px !important;
+}
+
+.disable-save-button {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.tabulator-custom-checkbox{
+    accent-color: #328be4 !important; 
+ }
